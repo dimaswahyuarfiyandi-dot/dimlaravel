@@ -20,7 +20,7 @@
 
         <!-- Profil -->
         <div class="text-center mb-4">
-            <img src="{{ asset('image/profil.jpg') }}" class="rounded-circle" width="150">
+            <img src="{{ asset('image/profil.jpeg') }}" class="rounded-circle" width="150">
             <h4 class="mt-2">Dimas Wahyu Arfiyandi</h4>
         </div>
 
