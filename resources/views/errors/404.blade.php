@@ -12,12 +12,12 @@
     </video>
 
     <!-- Overlay (biar teks kebaca) -->
-    <div class="fixed inset-0 bg-black bg-opacity-20"></div>
+    <div class="fixed inset-0 bg-black bg-opacity-30"></div>
 
     <!-- Konten -->
     <div class="relative flex items-center justify-center min-h-screen text-center px-4">
         <div>
-            <h1 class="text-8xl font-extrabold text-blue-700 mb-4 animate-pulse">
+            <h1 class="text-8xl font-extrabold text-blue-500 mb-4 animate-pulse">
                 404
             </h1>
 
